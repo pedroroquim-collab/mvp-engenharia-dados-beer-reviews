@@ -1,4 +1,4 @@
-# MVP — Engenharia de Dados de Avaliações de Cervejas 🍺
+# MVP — Engenharia de Dados de Avaliações de Cervejas
 
 MVP de Engenharia de Dados desenvolvido na pós-graduação em Ciência de Dados e Analytics da PUC-Rio. O projeto implementa um pipeline de ingestão, tratamento, controle de qualidade e modelagem dimensional de avaliações de cervejas, utilizando Databricks, Apache Spark, Delta Lake e Unity Catalog.
 

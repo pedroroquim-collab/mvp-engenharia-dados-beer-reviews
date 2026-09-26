@@ -45,3 +45,13 @@ Python · PySpark · SQL · Databricks · Delta Lake · Unity Catalog
 ## Observações
 
 As análises são descritivas e se limitam ao conjunto de dados utilizado no MVP. O notebook documenta as decisões de qualidade e as limitações dos dados.
+
+
+## Notebook
+
+📓 **[Acessar o MVP completo de Engenharia de Dados](https://github.com/pedroroquim-collab/mvp-engenharia-dados-beer-reviews/blob/main/MVP%20ENGENHARIA%20DE%20DADOS%20-%20BEER%20REVIEWS.ipynb)**
+
+O notebook contém o pipeline completo, as validações de qualidade, o catálogo de dados, as consultas analíticas e a documentação do projeto.
+
+**Plataforma de desenvolvimento:** Databricks Free Edition.
+  
